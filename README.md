@@ -1,41 +1,72 @@
 # Hi, I'm Mostafa Gerayli 👋
 
-Frontend Developer passionate about building modern web applications with React and Next.js.
+I'm a Frontend Developer with 2 years of experience building modern and user-friendly web applications.
 
-I enjoy creating clean, scalable, and user-friendly interfaces while continuously improving my skills.
+I enjoy creating clean, scalable, and maintainable interfaces, solving real-world problems, and continuously improving my development skills.
+
+Currently, I'm focused on building high-quality products with React and Next.js while growing as a software developer and contributing to collaborative teams.
+
+---
 
 ## 🚀 About Me
 
 - 💻 Frontend Developer
-- ⚛️ React.js & Next.js Developer
-- 🌱 Currently improving my skills in testing, performance optimization, and software architecture
-- 🎯 Interested in building real-world products and collaborating with development teams
+- 🌱 Continuously learning and improving my engineering skills
+- 🏗️ Interested in building scalable and user-focused applications
+- 🎯 Looking for opportunities to contribute to real-world products and grow with a professional team
 
-## 🛠️ Technologies
+---
 
-Frontend:
+## 🛠️ Tech Stack
+
+### Frontend
 - React.js
 - Next.js
 - TypeScript
 - JavaScript
 - Tailwind CSS
 
-State Management:
+### State & Data Management
 - Redux Toolkit
 - React Query
+- React Hook Form
+- Zod
 
-Backend & Database:
-- Prisma
+### Backend & Database
+- Prisma ORM
 - PostgreSQL
 - REST APIs
+- Server Actions
 
-Tools:
+### Tools
 - Git
 - GitHub
 - Vercel
 - Figma
 
-## 📫 Contact
+---
 
-LinkedIn: your-link
-Portfolio: your-link
+## 📌 Featured Projects
+
+### ☕ Piano Coffee
+A full-stack e-commerce platform built with modern web technologies.
+
+Features:
+- User authentication
+- Product management
+- Admin dashboard
+- Responsive user interface
+- Data management and API integration
+
+**Tech:** Next.js, React, Supabase, PostgreSQL, Tailwind CSS
+
+---
+
+### 🌐 Personal Portfolio
+A responsive portfolio website focused on clean UI, performance, and SEO.
+
+**Tech:** Next.js, Tailwind CSS
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/mostafa-gerayli-react/
+- Portfolio: https://my-portfio.vercel.app/
