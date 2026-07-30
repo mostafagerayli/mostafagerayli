@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Mostafa Gerayli 👋
 
-<!--
-**mostafagerayli/mostafagerayli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about building modern web applications with React and Next.js.
 
-Here are some ideas to get you started:
+I enjoy creating clean, scalable, and user-friendly interfaces while continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Frontend Developer
+- ⚛️ React.js & Next.js Developer
+- 🌱 Currently improving my skills in testing, performance optimization, and software architecture
+- 🎯 Interested in building real-world products and collaborating with development teams
+
+## 🛠️ Technologies
+
+Frontend:
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+
+State Management:
+- Redux Toolkit
+- React Query
+
+Backend & Database:
+- Prisma
+- PostgreSQL
+- REST APIs
+
+Tools:
+- Git
+- GitHub
+- Vercel
+- Figma
+
+## 📫 Contact
+
+LinkedIn: your-link
+Portfolio: your-link
