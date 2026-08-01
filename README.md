@@ -1,42 +1,53 @@
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
+
 # Hi, I'm Mostafa Gerayli 👋
 
-I'm a Frontend Developer with 2 years of experience building modern and user-friendly web applications.
+Frontend Developer specializing in **React**, **Next.js**, and modern web technologies.
 
-I enjoy creating clean, scalable, and maintainable interfaces, solving real-world problems, and continuously improving my development skills.
-
-Currently, I'm focused on building high-quality products with React and Next.js while growing as a software developer and contributing to collaborative teams.
+I build scalable, responsive, and user-focused web applications with clean architecture and maintainable code. Passionate about solving real-world problems and continuously improving my engineering skills.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer
-- 🌱 Continuously learning and improving my engineering skills
-- 🏗️ Interested in building scalable and user-focused applications
-- 🎯 Looking for opportunities to contribute to real-world products and grow with a professional team
+- 💻 Frontend Developer with 2 years of experience
+- ⚛️ Specialized in React.js & Next.js
+- 🏗️ Interested in scalable web applications and clean architecture
+- 🌱 Continuously learning modern frontend technologies
+- 🤝 Open to Frontend Developer opportunities and collaborations
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 - React.js
 - Next.js
 - TypeScript
-- JavaScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 - Tailwind CSS
 
 ### State & Data Management
 - Redux Toolkit
 - React Query
 - React Hook Form
+- Context API
 - Zod
 
 ### Backend & Database
 - Prisma ORM
 - PostgreSQL
 - REST APIs
+- Next.js API Routes
 - Server Actions
+- Supabase
 
 ### Tools
 - Git
@@ -46,27 +57,42 @@ Currently, I'm focused on building high-quality products with React and Next.js 
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### ☕ Piano Coffee
-A full-stack e-commerce platform built with modern web technologies.
+## 🥜 Peste Peste
 
-Features:
-- User authentication
-- Product management
-- Admin dashboard
-- Responsive user interface
-- Data management and API integration
+A full-stack e-commerce platform for selling pistachio products featuring authentication, admin dashboard, shopping cart, product management, and responsive RTL interfaces.
 
-**Tech:** Next.js, React, Supabase, PostgreSQL, Tailwind CSS
+**Tech Stack**
+
+Next.js • React • TypeScript • Prisma ORM • PostgreSQL • Tailwind CSS
+
+🔗 Live Demo: https://pestepeste.vercel.app/
 
 ---
 
-### 🌐 Personal Portfolio
-A responsive portfolio website focused on clean UI, performance, and SEO.
+## ☕ Piano Coffee
 
-**Tech:** Next.js, Tailwind CSS
+A modern full-stack coffee shop platform with secure authentication, admin dashboard, responsive storefront, and reusable UI components.
+
+**Tech Stack**
+
+Next.js • React • Supabase • PostgreSQL • Tailwind CSS
+
+🔗 Live Demo: https://piano-coffee.vercel.app/
+
+---
+
+## 🌐 Personal Portfolio
+
+A modern portfolio showcasing my projects, technical skills, and frontend development experience with a strong focus on performance, accessibility, and responsive design.
+
+🔗 Live Demo: https://my-portfio.vercel.app/
+
+---
+
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/mostafa-gerayli-react/
-- Portfolio: https://my-portfio.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/mostafa-gerayli-react/
+- 🌐 Portfolio: https://my-portfio.vercel.app/
+- 📧 Email: mostafagerayli778@gmail.com
