@@ -59,6 +59,16 @@ I build scalable, responsive, and user-focused web applications with clean archi
 
 # 📌 Featured Projects
 
+## 🥜 GymTrix– Smart Gym & Club Management Platform  
+
+Full-stack platform featuring dual-role authentication, biometric attendance tracking with daily deduplication, session/periodic subscriptions, and automated SMS workflows
+
+**Tech Stack**
+
+Next.js 16 • React 19 • TypeScript • PostgreSQL • Prisma • Tailwind CSS v4 • Jose (JWT) • Zod
+  
+🔗 Live Demo: https://gymtrix.ir
+
 ## 🥜 Peste Peste
 
 A full-stack e-commerce platform for selling pistachio products featuring authentication, admin dashboard, shopping cart, product management, and responsive RTL interfaces.
@@ -93,6 +103,6 @@ A modern portfolio showcasing my projects, technical skills, and frontend develo
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mostafa-gerayli-react/
+- 💼 LinkedIn: https://www.linkedin.com/in/mostafagerayli
 - 🌐 Portfolio: https://my-portfio.vercel.app/
 - 📧 Email: mostafagerayli778@gmail.com
